@@ -5,7 +5,7 @@ A custom landing page redesign for showcasing Nike's popular shoe collections.
 ## Live Demo
 
 Visit the live project: [Nike Redesign Landing Page](https://rvshandilya.github.io/NIKE-REDESIGN_LP/) 
-# This Project is not responsive.
+### This Project is not responsive.
 
 ## Table of Contents
 - [Overview](#overview)
