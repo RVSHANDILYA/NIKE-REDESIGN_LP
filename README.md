@@ -1,7 +1,7 @@
 # Shandilya's NIKE Shoe Project
 
 A custom landing page redesign for showcasing Nike's popular shoe collections.
-### Star the Repo if you like it
+### Star the Repo if you like it.
 
 ## Live Demo
 
